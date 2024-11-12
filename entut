@@ -1,4 +1,4 @@
-                                <?php
+<?php
 session_start(); // Mulai sesi
 
 // Daftar pengguna yang valid (gantilah ini dengan pengguna yang sesungguhnya)
